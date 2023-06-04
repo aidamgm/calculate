@@ -1,6 +1,5 @@
 const display = document.querySelector(".display");
 const buttons = document.querySelectorAll("button");
-const mathOperators = ["%", "*", "/", "-", "+", "="];
 let result = "";
 
 //сама функция калькулятора
